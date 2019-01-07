@@ -4,7 +4,7 @@ School is a lightweight online learning community connecting students and teache
 
 ## Why School?
 ---
-Current work creating and organizing online courses, students desire to stay off traditional social media
+My past work creating and organizing online courses led me to discover that students desire to stay off traditional social media.
 
 In search of an LMS with a clean UI and social features
 
