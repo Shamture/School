@@ -1,6 +1,6 @@
 # School
 
-School is a lightweight online learning community connecting students and teachers.
+School is a lightweight online learning community connecting students and teachers and is deployed here: https://schoolschool.herokuapp.com/.
 
 ## Why School?
 ---
